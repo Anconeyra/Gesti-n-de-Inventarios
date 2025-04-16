@@ -1,0 +1,37 @@
+﻿# Archivos de compilación y temporales
+bin/
+obj/
+out/
+
+# Archivos de Rider
+.idea/
+*.sln.iml
+
+# Archivos de VS Code si llegas a usarlo
+.vscode/
+
+# Archivos de solución temporales
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de paquetes
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+
+# Configuración local o secretos
+*.env
+*.local.json
+secrets.json
+
+# Logs y temporales
+*.log
+*.cache
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
